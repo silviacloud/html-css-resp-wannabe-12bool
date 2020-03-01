@@ -31,9 +31,6 @@ h2,p{
   padding-top: 2%;
 }
 
-@media screen and (min-width: 768px and max-width: 991px){
-
-}
 
 @media screen and (max-width: 767px){
   img{
